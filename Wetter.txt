@@ -3,3 +3,4 @@
 "Sturm"
 "Hagel"
 "Schnee"
+"Graupel"
