@@ -4,3 +4,4 @@
 "Hagel"
 "Schnee"
 "Graupel"
+"Eisregen"
