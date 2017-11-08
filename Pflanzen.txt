@@ -1,3 +1,4 @@
 "Blume"
 "Baum"
 "Strauch"
+"Halm"
