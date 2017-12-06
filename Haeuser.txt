@@ -1,3 +1,4 @@
 "Hüte" 
 "Reihenhaus"
 "Hochhaus"
+"Bungalow"
