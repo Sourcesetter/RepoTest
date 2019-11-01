@@ -1,3 +1,4 @@
 "Doener" 
 "Wuerstchen"
 "Kartoffeln"
+"Pommes"
