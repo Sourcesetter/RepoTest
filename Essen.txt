@@ -2,3 +2,4 @@
 "Wuerstchen"
 "Kartoffeln"
 "Pommes"
+"Big MAC-Rolle"
